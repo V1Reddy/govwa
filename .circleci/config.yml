@@ -11,5 +11,4 @@ version: 2.1
 workflows:
   main:
     jobs:
-      - build:
-          context: sonarcloud
+      - build
