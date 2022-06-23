@@ -11,3 +11,4 @@ config/config.json
 .scannerwork/.sonar_lock
 .scannerwork/report-task.txt
 .scannerwork/sonar-go-to-slang-darwin-amd64
+.vscode/settings.json
